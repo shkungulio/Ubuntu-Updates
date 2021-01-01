@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 echo " "; echo "********** Start Updating... **********"
 sudo apt-get update -y
