@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 
 echo " "; echo "********** Start Updating... **********"
 sudo apt-get update -y
